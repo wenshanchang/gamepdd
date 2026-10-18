@@ -1,0 +1,12 @@
+{
+  "name": "WinFix",
+  "display": "WinFix 系统维护工具",
+  "version": "2.4",
+  "publisher": "wenshanchang",
+  "repo": "wenshanchang/gamepdd",
+  "branch": "main",
+  "installer": "WinFix安装程序.exe",
+  "main_exe": "WinFix系统维护工具.exe",
+  "uninstaller": "卸载程序.exe",
+  "updated": "2026-10-17"
+}

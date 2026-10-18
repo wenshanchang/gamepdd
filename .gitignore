@@ -1,0 +1,8 @@
+__pycache__/
+build/
+*.spec
+payload.zip
+.venv/
+dist/
+*.pyc
+.workbuddy/
